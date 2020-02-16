@@ -1,0 +1,34 @@
+driving_log_1_reverse_relative.csv
+-Datalog of reverse driving on track 1 with relative path to the images.
+
+driving_log_1_straight_relative.csv
+-Datalog of straight driving on track 1 with relative path to the images.
+
+driving_log_1_reverse_relative_cleaned.csv
+-Datalog of reverse driving on track 1 with relative path to the images. *applied additional_files/clean_track_1_dataset.py
+
+driving_log_1_straight_relative_cleaned.csv
+-Datalog of straight driving on track 1 with relative path to the images. *applied additional_files/clean_track_1_dataset.py
+
+driving_log_2_extended_combi.csv
+-Datalog with biggest dataset on track 2 reverse + straight        - combi of driving_log_2_extended_relative_repair.csv and driving_log_2_extended_rev_relative_repair.csv
+
+driving_log_2_extended_relative_repair.csv
+-Datalog of track 2 straight driving.
+
+driving_log_2_extended_rev_relative_repair.csv
+-Datalog of track 2 reverse driving.
+
+driving_log_2_reverse_relative.csv
+-Smaller datalog for track 2 reverse driving.
+
+driving_log_2_straight_relative.csv
+-Smaller datalog for track 2 straight driving.
+
+driving_log_track_1_full_relative_cleaned.csv
+-Combination of cleaned datalogs driving_log_1_reverse_relative_cleaned.csv and driving_log_1_straight_relative_cleaned.csv
+
+driving_log_track_2_full_relative.csv
+-Combination of driving_log_2_reverse_relative.csv and driving_log_2_straight_relative.csv
+ 
+
