@@ -1,5 +1,9 @@
 # Udacity Self Driving Simulator with PyTorch
 
+![alt text](https://github.com/PeterKillerio/Udacity_Self-Dirivng_Car_Simulator_with_PyTorch/blob/master/github_images/track_1.png)
+
+![alt text](https://github.com/PeterKillerio/Udacity_Self-Dirivng_Car_Simulator_with_PyTorch/blob/master/github_images/track_2.png)
+
 libraries used:
 cv2
 tqdm
