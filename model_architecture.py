@@ -2,12 +2,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-#################################################################################
-# In this file you can modify and create you own model architecture
-# see courses, documentation and tutorials on how to create your own architecture
-# in Pytorch
-#################################################################################
-
 class CNN(nn.Module):
     def __init__(self):
         super(CNN, self).__init__()
